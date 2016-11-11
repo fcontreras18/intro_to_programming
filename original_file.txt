@@ -1,0 +1,2 @@
+another example of wiriting to a file.
+Here we are with a new line of text
